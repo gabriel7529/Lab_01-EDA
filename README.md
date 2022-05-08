@@ -1,1 +1,1 @@
-#Aqui irá mi informe de laboratorio
+# Aqui irá mi informe de laboratorio
